@@ -1,0 +1,11 @@
+推文信息：
+reply_count  恢复数量
+retweet_count   这条推文回复的数量
+
+user.
+followers_count  关注着（粉丝）数量
+friends_count  该账号关注的用户数量
+listed_count   有该账号的列表个数（越多表示被越多的人关注）
+favourites_count  该推文的点赞数量 
+statuses_count 该用户发布的推文数量
+

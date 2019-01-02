@@ -1,0 +1,212 @@
+[nltk_data] Downloading collection 'all'
+[nltk_data]    | 
+[nltk_data]    | Downloading package abc to /home/hl/nltk_data...
+[nltk_data]    |   Package abc is already up-to-date!
+[nltk_data]    | Downloading package alpino to /home/hl/nltk_data...
+[nltk_data]    |   Package alpino is already up-to-date!
+[nltk_data]    | Downloading package biocreative_ppi to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Package biocreative_ppi is already up-to-date!
+[nltk_data]    | Downloading package brown to /home/hl/nltk_data...
+[nltk_data]    |   Package brown is already up-to-date!
+[nltk_data]    | Downloading package brown_tei to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Package brown_tei is already up-to-date!
+[nltk_data]    | Downloading package cess_cat to /home/hl/nltk_data...
+[nltk_data]    |   Package cess_cat is already up-to-date!
+[nltk_data]    | Downloading package cess_esp to /home/hl/nltk_data...
+[nltk_data]    |   Package cess_esp is already up-to-date!
+[nltk_data]    | Downloading package chat80 to /home/hl/nltk_data...
+[nltk_data]    |   Package chat80 is already up-to-date!
+[nltk_data]    | Downloading package city_database to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Package city_database is already up-to-date!
+[nltk_data]    | Downloading package cmudict to /home/hl/nltk_data...
+[nltk_data]    |   Package cmudict is already up-to-date!
+[nltk_data]    | Downloading package comparative_sentences to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Package comparative_sentences is already up-to-
+[nltk_data]    |       date!
+[nltk_data]    | Downloading package comtrans to /home/hl/nltk_data...
+[nltk_data]    |   Package comtrans is already up-to-date!
+[nltk_data]    | Downloading package conll2000 to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Package conll2000 is already up-to-date!
+[nltk_data]    | Downloading package conll2002 to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Package conll2002 is already up-to-date!
+[nltk_data]    | Downloading package conll2007 to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Package conll2007 is already up-to-date!
+[nltk_data]    | Downloading package crubadan to /home/hl/nltk_data...
+[nltk_data]    |   Package crubadan is already up-to-date!
+[nltk_data]    | Downloading package dependency_treebank to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Package dependency_treebank is already up-to-date!
+[nltk_data]    | Downloading package dolch to /home/hl/nltk_data...
+[nltk_data]    |   Package dolch is already up-to-date!
+[nltk_data]    | Downloading package europarl_raw to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Package europarl_raw is already up-to-date!
+[nltk_data]    | Downloading package floresta to /home/hl/nltk_data...
+[nltk_data]    |   Package floresta is already up-to-date!
+[nltk_data]    | Downloading package framenet_v15 to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Package framenet_v15 is already up-to-date!
+[nltk_data]    | Downloading package framenet_v17 to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Unzipping corpora/framenet_v17.zip.
+[nltk_data]    | Downloading package gazetteers to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Unzipping corpora/gazetteers.zip.
+[nltk_data]    | Downloading package genesis to /home/hl/nltk_data...
+[nltk_data]    |   Unzipping corpora/genesis.zip.
+[nltk_data]    | Downloading package gutenberg to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Unzipping corpora/gutenberg.zip.
+[nltk_data]    | Downloading package ieer to /home/hl/nltk_data...
+[nltk_data]    |   Unzipping corpora/ieer.zip.
+[nltk_data]    | Downloading package inaugural to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Unzipping corpora/inaugural.zip.
+[nltk_data]    | Downloading package indian to /home/hl/nltk_data...
+[nltk_data]    |   Unzipping corpora/indian.zip.
+[nltk_data]    | Downloading package jeita to /home/hl/nltk_data...
+[nltk_data]    | Downloading package kimmo to /home/hl/nltk_data...
+[nltk_data]    |   Unzipping corpora/kimmo.zip.
+[nltk_data]    | Downloading package knbc to /home/hl/nltk_data...
+[nltk_data]    | Downloading package lin_thesaurus to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Unzipping corpora/lin_thesaurus.zip.
+[nltk_data]    | Downloading package mac_morpho to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Unzipping corpora/mac_morpho.zip.
+[nltk_data]    | Downloading package machado to /home/hl/nltk_data...
+[nltk_data]    | Downloading package masc_tagged to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    | Downloading package moses_sample to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    |   Unzipping models/moses_sample.zip.
+[nltk_data]    | Downloading package movie_reviews to
+[nltk_data]    |     /home/hl/nltk_data...
+[nltk_data]    | Error downloading 'movie_reviews' from
+[nltk_data]    |     <https://raw.githubusercontent.com/nltk/nltk_data
+[nltk_data]    |     /gh-pages/packages/corpora/movie_reviews.zip>:
+[nltk_data]    |     <urlopen error [Errno -3] Temporary failure in
+[nltk_data]    |     name resolution>
+--------------------一共28145条信息--------------------
+apriori已完成100/501
+apriori已完成200/501
+apriori已完成300/501
+apriori已完成400/501
+apriori已完成500/501
+allWordsCSR已完成100/501
+allWordsCSR已完成200/501
+allWordsCSR已完成300/501
+allWordsCSR已完成400/501
+allWordsCSR已完成500/501
+wordDiv已完成100/501
+wordDiv已完成200/501
+wordDiv已完成300/501
+wordDiv已完成400/501
+wordDiv已完成500/501
+keywords: ['begin', 'shopping', 'lunch', 'present', 'pie', 'bring', 'holiday', 'band', 'talk', 'shoot', 'hot', 'client', 'dress', 'boy', 'vibe', 'sleep', 'gold', 'winner', 'small', 'project', 'visit', 'award', 'fab', 'detail', 'incredible', 'vintage', 'full', 'fantastic', 'sussex', 'hour', 'quick', 'model', 'pizza', 'close', 'hear', 'flower', 'company', 'decoration', 'call', 'past', 'classic', 'moment', 'bear', 'collection', 'evening', 'annual', 'heart', 'ticket', 'manage', 'arm', 'cup', 'scotland', 'money', 'beauty', 'king', 'official', 'fabulous', 'double', 'cheer', 'queen', 'build', 'xxx', 'fish', 'mark', 'sunset', 'place', 'organic', 'cosy', 'enjoy', 'smile', 'dream', 'orange', 'excite', 'late', 'image', 'yesterday', 'original', 'favourite', 'brilliant', 'radio', 'point', 'community', 'stun', 'artist', 'extra', 'stop', 'fashion', 'early', 'dj', 'event', 'memory', 'throwback', 'easy', 'tag', 'fire', 'monday', 'follow', 'check', 'fill']
+keywords size: 99
+tfidf size: 28145 501
+相似度计算已完成3000/28145
+相似度计算已完成18000/28145
+相似度计算已完成25000/28145
+相似度计算已完成25000/28145
+相似度计算已完成25000/28145
+--------------------一共28145条信息--------------------
+
+******************第1个事件*******************
+时间:2018-12-15 08:50, 地点:[-1.1538350926262635, 52.21874846020833], 关键词:['enjoy', 'christmas', 'day', 'great', 'night', 'london', 'festive', 'weekend', 'love', 'time', 'call', 'hope', 'friday', 'lunch', 'morning']
+
+
+******************第2个事件*******************
+时间:2018-12-15 07:27, 地点:[-1.1520330091752582, 52.106159759578965], 关键词:['favourite', 'christmas', 'london', 'time', 'place', 'lunch', 'night', 'evening', 'band', 'drink', 'day', 'beer', 'great', 'birthday', 'love']
+
+
+******************第3个事件*******************
+时间:2018-12-15 05:31, 地点:[-1.0756511772619048, 52.476756093855414], 关键词:['full', 'christmas', 'day', 'swing', 'time', 'love', 'party', 'check', 'week', 'body', 'xmas', 'boy', 'beauty', 'weekend', 'drink']
+
+
+******************第4个事件*******************
+时间:2018-12-15 10:14, 地点:[-0.7444124575438593, 52.12679434403507], 关键词:['yesterday', 'day', 'christmas', 'great', 'time', 'work', 'london', 'meet', 'love', 'morning', 'post', 'night', 'stun', 'shoot', 'amazing']
+
+
+******************第5个事件*******************
+时间:2018-12-15 10:55, 地点:[-0.7388206692307693, 51.890278470249996], 关键词:['shoot', 'fantastic', 'image', 'christmas', 'amazing', 'visit', 'london', 'model', 'giveitsomewelly', 'opportunity', '29th', 'skindred', 'november', 'love', 'day']
+
+
+******************第6个事件*******************
+时间:2018-12-15 07:37, 地点:[-1.1049244891428573, 52.48470213206895], 关键词:['call', 'book', 'appointment', 'artist', 'mossley', 'message', 'january', 'christmas', 'pro', 'publication', 'magazine', 'learn', 'rule', 'pablo', 'raw']
+
+
+******************第7个事件*******************
+时间:2018-12-15 05:04, 地点:[-0.9973295958490566, 52.05160997880001], 关键词:['event', 'christmas', 'night', 'great', 'party', 'london', 'fashion', 'vip', 'day', 'tomorrow', 'drink', 'incredible', 'cheer', 'late', 'launch']
+
+
+******************第8个事件*******************
+时间:2018-12-15 12:45, 地点:[-0.21218463571428567, 51.71073018285714], 关键词:['gold', 'splash', 'begin', 'christmas', 'post', 'lot', 'rise', 'white', 'earring', 'london', 'heart', 'day', 'yellow', 'bauble', 'love']
+
+
+******************第9个事件*******************
+时间:2018-12-15 02:03, 地点:[-0.6365143228888889, 51.999929536222226], 关键词:['stop', 'christmas', 'bus', 'london', 'great', 'day', 'place', 'time', 'tramlink', 'call', 'evening', 'love', 'coffee', 'england', 'don']
+
+
+******************第10个事件*******************
+时间:2018-12-14 23:43, 地点:[-0.651397883888889, 51.857575408], 关键词:['collection', 'model', 'london', 'fashion', 'londonfashionweek', 'lfw18', 'fashionshow', 'catwalk', 'lfw', 'fashionsfinest', 'designer', 'smile', 'check', 'gift', 'unitedkingdom']
+
+--------------------一共28145条信息--------------------
+apriori已完成100/658
+apriori已完成200/658
+apriori已完成300/658
+apriori已完成400/658
+apriori已完成500/658
+apriori已完成600/658
+allWordsCSR已完成100/658
+allWordsCSR已完成200/658
+allWordsCSR已完成300/658
+allWordsCSR已完成400/658
+allWordsCSR已完成500/658
+allWordsCSR已完成600/658
+wordDiv已完成100/658
+wordDiv已完成200/658
+wordDiv已完成300/658
+wordDiv已完成400/658
+wordDiv已完成500/658
+wordDiv已完成600/658
+keywords: ['shopping', 'pie', 'lunch', 'present', 'bring', 'chance', 'sleep', 'talk', 'award', 'jewellery', 'client', 'dress', 'boy', 'daily', 'vibe', 'stop', 'dad', 'coat', 'holiday', 'small', 'single', 'decoration', 'project', 'point', 'fab', 'detail', 'incredible', 'vintage', 'full', 'edition', 'fantastic', 'sussex', 'quick', 'model', 'paper', 'pizza', 'shoot', 'excite', 'hear', 'mark', 'yesterday', 'flower', 'company', 'daughter', 'cycle', 'call', 'memory', 'past', 'member', 'classic', 'begin', 'bear', 'collection', 'evening', 'inside', 'annual', 'heart', 'draw', 'easy', 'manage', 'arm', 'ticket', 'cup', 'scotland', 'chicken', 'money', 'visit', 'king', 'english', 'official', 'fabulous', 'band', 'double', 'fill', 'yellow', 'bread', 'cheer', 'queen', 'fashion', 'build', 'xxx', 'host', 'photographer', 'fish', 'place', 'seat', 'sunset', 'organic', 'cosy', 'beauty', 'gel', 'close', 'enjoy', 'smile', 'hour', 'limit', 'fire', 'winner', 'dream', 'orange', '1st', 'late', 'image', 'original', 'favourite', 'gold', 'yoga', 'brilliant', 'movie', 'radio', 'moment', 'throwback', 'stun', 'artist', 'extra', 'community', 'devon', 'shirt', 'early', 'dj', 'event', 'tag', 'mary', 'hot', 'monday', 'return', 'follow', 'check', 'soft']
+keywords size: 129
+tfidf size: 28145 658
+相似度计算已完成3000/28145
+相似度计算已完成18000/28145
+相似度计算已完成25000/28145
+相似度计算已完成25000/28145
+相似度计算已完成25000/28145
+--------------------一共28145条信息--------------------
+
+******************第1个事件*******************
+时间:2018-12-15 06:03, 地点:[-1.140857989646018, 52.269137845132754], 关键词:['favourite', 'christmas', 'coat', 'london', 'band', 'place', 'time', 'day', 'lunch', 'night', 'boy', 'evening', 'love', 'winter', 'drink']
+
+
+******************第2个事件*******************
+时间:2018-12-15 08:25, 地点:[-1.1550846640909103, 52.154404520865384], 关键词:['enjoy', 'christmas', 'day', 'great', 'evening', 'night', 'london', 'love', 'morning', 'weekend', 'hope', 'festive', 'friday', 'time', 'lunch']
+
+
+******************第3个事件*******************
+时间:2018-12-15 05:44, 地点:[-1.0892405480487808, 52.467536696790106], 关键词:['full', 'christmas', 'day', 'swing', 'time', 'love', 'check', 'beauty', 'week', 'party', 'body', 'uk', 'great', 'weekend', 'drink']
+
+
+******************第4个事件*******************
+时间:2018-12-15 10:16, 地点:[-0.6362457699999998, 52.13530171507935], 关键词:['yesterday', 'day', 'christmas', 'great', 'time', 'work', 'london', 'post', 'shoot', 'meet', 'love', 'night', 'late', 'amazing', 'manchester']
+
+
+******************第5个事件*******************
+时间:2018-12-15 05:01, 地点:[-0.9644748580357146, 52.122087628823536], 关键词:['event', 'christmas', 'night', 'great', 'party', 'london', 'fashion', 'day', 'late', 'tomorrow', 'vip', 'drink', 'incredible', 'cheer', 'lunch']
+
+
+******************第6个事件*******************
+时间:2018-12-15 07:37, 地点:[-1.0537057220000001, 52.484599239310334], 关键词:['call', 'book', 'appointment', 'artist', 'mossley', 'message', 'january', 'christmas', 'raw', 'pro', 'publication', 'learn', 'magazine', 'rule', 'pablo']
